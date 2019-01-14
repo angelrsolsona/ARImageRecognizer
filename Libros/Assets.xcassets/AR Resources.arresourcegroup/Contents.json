@@ -5,13 +5,22 @@
   },
   "resources" : [
     {
-      "filename" : "apple imagen.arreferenceimage"
+      "filename" : "book.arreferenceimage"
+    },
+    {
+      "filename" : "mountain.arreferenceimage"
     },
     {
       "filename" : "pinguino.arreferenceimage"
     },
     {
-      "filename" : "pruebaimagen.arreferenceimage"
+      "filename" : "seagull.arreferenceimage"
+    },
+    {
+      "filename" : "tree.arreferenceimage"
+    },
+    {
+      "filename" : "wizard.arreferenceimage"
     }
   ]
 }
